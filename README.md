@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# LoRA-Pet_Project
-LoRA-Pet_Project: Fine-tuning LLMs with LoRA for specific domain task
-=======
 
 # LoRA-Pet_Project: Fine-tuning LLMs with LoRA 🚀
 
@@ -44,4 +40,3 @@ We actively encourage community contributions. Whether it's refining algorithms,
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Thank you for exploring the LoRA-Pet_Project. Together, we are advancing the frontiers of domain-specific language processing!
->>>>>>> master
